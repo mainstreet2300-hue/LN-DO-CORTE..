@@ -1,0 +1,11 @@
+LN DO CORTE — V15
+
+Nesta versão, a imagem vertical de referência da LN DO CORTE foi colocada como o FUNDO REAL da página.
+
+Arquivo do fundo: fundo_ln_do_corte_v14.png
+A imagem é usada na proporção original, sem esticar.
+
+Para publicar no GitHub Pages:
+- envie todos os arquivos desta pasta para o repositório;
+- deixe o index.html na raiz;
+- deixe também o fundo_ln_do_corte_v14.png na raiz.

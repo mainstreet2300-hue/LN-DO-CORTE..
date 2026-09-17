@@ -1,0 +1,6 @@
+LN DO CORTE V12
+
+Abra o index.html para testar no celular.
+
+Para ter um link público HTTPS, publique esta pasta em um serviço de hospedagem estática (ex.: GitHub Pages, Netlify ou Vercel).
+O endereço público só existe depois da publicação.

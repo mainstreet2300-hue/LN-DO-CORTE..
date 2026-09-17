@@ -1,0 +1,6 @@
+// Renomeie este arquivo para config.js e preencha os dados do seu projeto Supabase.
+// NUNCA coloque aqui a service_role key. No navegador use apenas a ANON/PUBLISHABLE KEY.
+window.LN_CONFIG = {
+  SUPABASE_URL: "https://SEU-PROJETO.supabase.co",
+  SUPABASE_ANON_KEY: "SUA_CHAVE_ANON_OU_PUBLISHABLE"
+};
